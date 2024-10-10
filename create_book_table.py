@@ -3,7 +3,7 @@ import psycopg2
 import psycopg2.extras
 from psycopg2 import sql
 
-API_KEY = "AIzaSyBVzyNN5zRjluikDh1EfaN5XRT7c0oCz4g"
+API_KEY = ""
 books_dict = {"Atomic habits": 1473537800,
          "Rich Dad Poor Dad":9780759521438,
          "Rich Dad's Guide to Investing": 9780446677462,

@@ -8,7 +8,7 @@ import requests
 from create_book_table import extract_book_data_from_URL
 
 
-API_KEY = "AIzaSyBVzyNN5zRjluikDh1EfaN5XRT7c0oCz4g"
+API_KEY = ""
 
 
 # this will enforce certain types for the book-related data
