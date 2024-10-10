@@ -45,7 +45,7 @@ In order to test the API, run `server.py` and type this address in browser `http
 
 In the following, I will explain different components of the API calls. 
 
-##### GET /books
+#### GET /books
 This endpoint will query all the data from the database and return the result in json format. 
 
 #### POST /books
